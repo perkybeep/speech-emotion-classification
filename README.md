@@ -92,7 +92,10 @@ sad: 0.78
 - `emotion_model.pkl`, `label_encoder.pkl`, `scaler.pkl`: Saved model and auxiliary files
 
 ----
+##Video Demo
+https://drive.google.com/file/d/1FiDF8MXcpMMmUDZ6VKO2Wr8aBalClbK_/view?usp=sharing
 
+---
 ## Testing the Model
 
 To test a particular `.wav` file:
